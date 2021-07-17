@@ -15,14 +15,25 @@
  * the first Minsk poultry farm, veterinary expert (2010-2012)
  * Cherven rigion veterinary station, veterinary epioepizootologist(2012-2013)
  * KRKA, medical representative (2013-2014)
- * individual entrepreneur (20014- ..)
+ * individual entrepreneur (2014- ..)
+
 ## Personal qualities:
  * purposeful 
  * stress  resistant 
  * sociable 
  * easy to train
+
 ## Special skills:
 English - *Intermediate*
 *Courses:*
-* RS School, JS / FRONT-END. STAGE 0
+* RS School, JS / FRONT-END. STAGE 0 
 * RS School, JS / FRONT-END 
+
+## Computer literacy:
+* Microsoft Word,Exel
+* google docs
+* git, GitHub
+* Figma, Adobe PS, Illustrator 
+
+## Driving license: 
+A, Am, B
