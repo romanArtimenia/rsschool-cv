@@ -1,0 +1,31 @@
+.container {
+	max-width: 1626px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+.site-container {
+overflow: hidden;
+}
+.flex {
+	 display: flex;
+}
+.btn-reset{
+	border: none;
+	background-color: transparent;
+	cursor: pointer;
+	padding: 0px;
+}
+input[type="search"]::-webkit-search-cancel-button {
+  display: none;
+}
+.sectionTitle{
+	font-family: SfPro;
+font-weight: 700;
+font-size: 64px;
+line-height: 80px;
+color: var(--dark-color);
+}
+.sectionTitleCenter{
+	text-align: center;
+	min-width: none;
+}
