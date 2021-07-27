@@ -1,0 +1,40 @@
+body{
+	background-color:lavender;
+}
+.site-container{
+
+	position: absolute;
+left: 50%;
+transform: translateX(-50%);
+
+min-width: 300px;
+}
+.header{
+	width: 100%;
+}
+.grid-container{
+display: flex;
+
+}
+img{
+	padding-right: 10px;
+}
+.contacts{
+	margin: 20px;
+}
+ul, li, ol{
+	margin: 10px;
+}
+
+.footerContainer{
+	margin-top: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.rs_school{
+	display: block;
+	width: 154px;
+	height: 60px;
+}
+
