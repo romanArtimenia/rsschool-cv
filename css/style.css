@@ -1,3 +1,6 @@
+@import "../css/_main-container.css";
+@import "../css/_normalize.css";
+@import "../css/_header.css";
 
 body{
     background-color: rgb(226, 96, 21);
