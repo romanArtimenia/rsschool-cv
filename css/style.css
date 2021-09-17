@@ -1,7 +1,7 @@
-@import "../css/_main-container.css";
-@import "../css/_normalize.css";
-@import "../css/_header.css";
-@import "../css/_main-information.css";
+@import "./_main-container.css";
+@import "./css/_normalize.css";
+@import "./css/_header.css";
+@import "./_main-information.css";
 
 
 
