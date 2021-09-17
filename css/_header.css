@@ -15,7 +15,7 @@
     
 }
 .photo{
-    background-image: url(./../img/photo_2021-09-10_15-09-48.jpg);
+    background-image: url(/img/photo_2021-09-10_15-09-48.jpg);
     height: 400px;
     width: 300px;
 }
