@@ -1,4 +1,7 @@
 .main-information{
-    width: 100%;
+    position: relative;
+    top: 500px;
+    width: 1920px;
+    height: 600px;
  
 }
