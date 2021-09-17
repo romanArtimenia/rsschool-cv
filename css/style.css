@@ -13,11 +13,11 @@ body{
     justify-content: center;
 }
 .main-information{
-    position: relative;
+    position: absolute;
     top: 500px;
     width: 1920px;
     height: 600px;
- 
+     
 }
 .header{
     display: flex;
@@ -36,11 +36,13 @@ body{
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .photo{
-    background-image: url(/img/photo_2021-09-10_15-09-48.jpg);
+    background-image: url(../img/photo_2021-09-10_15-09-48.jpg);
     height: 400px;
     width: 300px;
 }
-
+ul, ol, li{
+    list-style-type: none;
+}
 
 
 
