@@ -1,3 +1,7 @@
+html{
+    overflow:  hidden;
+    font-family: Nunito Sans;
+}
 .site-container{
     width:100% ;
     height: 100vh;
@@ -17,8 +21,8 @@ body{
    display: flex;
    justify-content: center;
     position: absolute;
-    top: 500px;
-  
+    top: 400px;
+  left: 50px;
     width:100%;
     height: 600px;
      
@@ -32,10 +36,11 @@ body{
 }
 .first-name{
     padding: 40px;
-    width: 300px;
+    width: 320px;
+    height: 150px;
     text-transform: uppercase;
     line-height: 2;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 800;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -47,10 +52,62 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 ul, ol, li{
     list-style-type: none;
 }
+.main-footer{
+    display: inline-flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 90%;
+display: flex;
+width: 60%;
+height: 50px;
+}
+.date{
 
+    text-align: center;
+    width: 120px;
+    height: 60px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+   font-size: 2rem;
+}
+.logo-RS{
+     background: no-repeat;
+ width: 120px;
+ height: 60px;
+    background-image: url(../img/rs_school_js.svg);
+}
 
+.coure-link{
+    align-content: center;
+    width: 220px;
+    height: 60px;
+    color: #0080ff;
+    text-decoration: none;
+    background-color: transparent;
+}
 
+@media (max-width: 630px) 
+{
+    .first-name{
+        padding: 20px;
+        width: 300px;
+        height: 100px;
+        text-transform: uppercase;
+        line-height: 2;
+        font-size: 2rem;}
 
+    .main-information{
+        top: 500px;
+        left: -20px;
+    }
+}
 
-
-            
+@font-face {
+    font-family: 'Nunito Sans';
+    src: local(./), local(''),
+        url('NunitoSans-Light.woff2') format('woff2'),
+        url('NunitoSans-Light.woff') format('woff'),
+        url('NunitoSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
