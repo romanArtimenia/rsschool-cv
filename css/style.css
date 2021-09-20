@@ -64,6 +64,8 @@ ul, ol, li{
 }
 .contacts{
     line-height: 2.15;
+    position: absolute;
+    top: 90%;
 }
 .main-footer{
     display: inline-flex;
