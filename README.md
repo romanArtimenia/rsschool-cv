@@ -1,1 +1,1 @@
-https://romanartimenia.github.io/
+https://romanartimenia.github.io/rsschool-cv/
